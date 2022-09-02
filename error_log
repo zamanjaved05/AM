@@ -1,0 +1,112 @@
+[23-Mar-2022 11:50:42 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:809
+Stack trace:
+#0 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass->__construct('config')
+#1 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(691): Illuminate\Container\Container->build('config')
+#2 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('config', Array, true)
+#3 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(637): Illuminate\Foundation\Application->resolve('config', Array)
+#4 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(781): Illuminate\Container\Container->make('config', Array)
+#5 /home/satcableservices/public_html in /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811
+[23-Mar-2022 11:50:45 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:809
+Stack trace:
+#0 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass->__construct('config')
+#1 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(691): Illuminate\Container\Container->build('config')
+#2 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('config', Array, true)
+#3 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(637): Illuminate\Foundation\Application->resolve('config', Array)
+#4 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(781): Illuminate\Container\Container->make('config', Array)
+#5 /home/satcableservices/public_html in /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811
+[21-Apr-2022 18:04:02 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:809
+Stack trace:
+#0 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass->__construct('config')
+#1 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(691): Illuminate\Container\Container->build('config')
+#2 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('config', Array, true)
+#3 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(637): Illuminate\Foundation\Application->resolve('config', Array)
+#4 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(781): Illuminate\Container\Container->make('config', Array)
+#5 /home/satcableservices/public_html in /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811
+[21-Apr-2022 18:04:06 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:809
+Stack trace:
+#0 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass->__construct('config')
+#1 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(691): Illuminate\Container\Container->build('config')
+#2 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('config', Array, true)
+#3 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(637): Illuminate\Foundation\Application->resolve('config', Array)
+#4 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(781): Illuminate\Container\Container->make('config', Array)
+#5 /home/satcableservices/public_html in /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811
+[21-Apr-2022 18:04:11 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:809
+Stack trace:
+#0 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass->__construct('config')
+#1 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(691): Illuminate\Container\Container->build('config')
+#2 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('config', Array, true)
+#3 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(637): Illuminate\Foundation\Application->resolve('config', Array)
+#4 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(781): Illuminate\Container\Container->make('config', Array)
+#5 /home/satcableservices/public_html in /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811
+[21-Apr-2022 18:05:35 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:809
+Stack trace:
+#0 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass->__construct('config')
+#1 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(691): Illuminate\Container\Container->build('config')
+#2 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('config', Array, true)
+#3 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(637): Illuminate\Foundation\Application->resolve('config', Array)
+#4 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(781): Illuminate\Container\Container->make('config', Array)
+#5 /home/satcableservices/public_html in /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811
+[21-Apr-2022 18:05:36 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:809
+Stack trace:
+#0 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass->__construct('config')
+#1 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(691): Illuminate\Container\Container->build('config')
+#2 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('config', Array, true)
+#3 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(637): Illuminate\Foundation\Application->resolve('config', Array)
+#4 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(781): Illuminate\Container\Container->make('config', Array)
+#5 /home/satcableservices/public_html in /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811
+[21-Apr-2022 18:05:53 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:809
+Stack trace:
+#0 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass->__construct('config')
+#1 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(691): Illuminate\Container\Container->build('config')
+#2 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('config', Array, true)
+#3 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(637): Illuminate\Foundation\Application->resolve('config', Array)
+#4 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(781): Illuminate\Container\Container->make('config', Array)
+#5 /home/satcableservices/public_html in /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811
+[21-Apr-2022 18:09:18 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:809
+Stack trace:
+#0 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass->__construct('config')
+#1 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(691): Illuminate\Container\Container->build('config')
+#2 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('config', Array, true)
+#3 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(637): Illuminate\Foundation\Application->resolve('config', Array)
+#4 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(781): Illuminate\Container\Container->make('config', Array)
+#5 /home/satcableservices/public_html in /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811
+[21-Apr-2022 18:10:36 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:809
+Stack trace:
+#0 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass->__construct('config')
+#1 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(691): Illuminate\Container\Container->build('config')
+#2 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('config', Array, true)
+#3 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(637): Illuminate\Foundation\Application->resolve('config', Array)
+#4 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(781): Illuminate\Container\Container->make('config', Array)
+#5 /home/satcableservices/public_html in /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811
+[21-Apr-2022 18:10:45 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:809
+Stack trace:
+#0 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass->__construct('config')
+#1 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(691): Illuminate\Container\Container->build('config')
+#2 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('config', Array, true)
+#3 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(637): Illuminate\Foundation\Application->resolve('config', Array)
+#4 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(781): Illuminate\Container\Container->make('config', Array)
+#5 /home/satcableservices/public_html in /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811
+[21-Apr-2022 18:10:50 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:809
+Stack trace:
+#0 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass->__construct('config')
+#1 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(691): Illuminate\Container\Container->build('config')
+#2 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('config', Array, true)
+#3 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(637): Illuminate\Foundation\Application->resolve('config', Array)
+#4 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(781): Illuminate\Container\Container->make('config', Array)
+#5 /home/satcableservices/public_html in /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811
+[21-Apr-2022 18:13:51 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:809
+Stack trace:
+#0 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass->__construct('config')
+#1 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(691): Illuminate\Container\Container->build('config')
+#2 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('config', Array, true)
+#3 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(637): Illuminate\Foundation\Application->resolve('config', Array)
+#4 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(781): Illuminate\Container\Container->make('config', Array)
+#5 /home/satcableservices/public_html in /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811
+[21-Apr-2022 18:15:38 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:809
+Stack trace:
+#0 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(809): ReflectionClass->__construct('config')
+#1 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(691): Illuminate\Container\Container->build('config')
+#2 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(796): Illuminate\Container\Container->resolve('config', Array, true)
+#3 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(637): Illuminate\Foundation\Application->resolve('config', Array)
+#4 /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(781): Illuminate\Container\Container->make('config', Array)
+#5 /home/satcableservices/public_html in /home/satcableservices/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 811
