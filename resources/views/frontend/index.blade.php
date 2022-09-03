@@ -544,7 +544,7 @@
         font-size: 50px;
         font-weight: bold;
         line-height: 100%;
-        color: #F7941D;
+        color: #ff0000;
         }
 
         #Gslider .carousel-inner .carousel-caption p {
